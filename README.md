@@ -5,7 +5,7 @@
 </div>
 
 ### 🛡️ Cybersecurity Student & Systems Developer
-*Focused on Infrastructure Protection, Automation, and Canada 2028 Plan.*
+*Focused on Infrastructure Protection, and Automation.*
 
 ---
 
