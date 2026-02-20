@@ -16,8 +16,8 @@ Currently studying **Systems Development** and training as a **Cybersecurity Spe
 ---
 
 ### 🛠️ Tech Stack & Skills
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) !
-[Brigada](https://img.shields.io/badge/FIRE_SKILLS-E34F26?style=for-the-badge&logo=fire-extinguisher&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Brigada](https://img.shields.io/badge/FIRE_SKILLS-E34F26?style=for-the-badge&logo=fire-extinguisher&logoColor=white) 
 ![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-000000?style=for-the-badge&logo=hackthebox&logoColor=9fe117) 
 ![English](https://img.shields.io/badge/ENGLISH-002395?style=for-the-badge&logo=duolingo&logoColor=white)
 
