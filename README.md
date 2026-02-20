@@ -22,8 +22,3 @@
 ![English](https://img.shields.io/badge/ENGLISH-002395?style=for-the-badge&logo=duolingo&logoColor=white)
 
 ---
-
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arua-Boy&show_icons=true&theme=radical&hide_border=true" />
-</div>
