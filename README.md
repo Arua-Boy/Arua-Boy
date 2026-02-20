@@ -3,7 +3,7 @@
     <td width="65%">
       <h1>Hi, I'm Pedro Souza! 👋</h1>
       <h3>🛡️ Cybersecurity Student & Systems Developer</h3>
-      <p>Focused on Infrastructure Protection, Automation, and Canada 2028 Plan.</p>
+      <p>Focused on Infrastructure Protection, and Automation.</p>
       <p>Currently studying at <b>SENAI</b> and training as a <b>Civil Firefighter/Brigadist</b>.</p>
     </td>
     <td width="35%" align="center">
