@@ -1,15 +1,13 @@
-<table border="0" style="border-collapse: collapse; border: none;">
+<table border="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
-    <td width="600px" valign="top" style="border: none; padding-right: 20px;">
-      <br />
-      <div style="font-size: 32px; font-weight: bold; margin-bottom: 0px;">Hi, I'm Pedro Souza! Greetings! 👋</div>
-      <hr style="height: 1px; background-color: #30363d; border: none; margin-top: 5px;" />
-      <br />
+    <td style="border: none; vertical-align: middle;">
+      <h1>Hi, I'm Pedro Souza! 👋</h1>
+      <hr />
       <h3>🛡️ Cybersecurity Student & Systems Developer</h3>
       <p>Focused on Infrastructure Protection, Automation, and Canada 2028 Plan.</p>
       <p>Currently studying at <b>SENAI</b> and training as a <b>Civil Firefighter/Brigadist</b>.</p>
     </td>
-    <td width="200px" align="center" valign="middle" style="border: none;">
+    <td width="200px" align="center" style="border: none; vertical-align: middle;">
       <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/150.gif" width="180" />
     </td>
   </tr>
