@@ -1,18 +1,44 @@
-Olá, eu sou o Pedro Souza! Saudações.
+<h1 align="center">Hi, i'm Pedro Souza! Greetings. 👋</h1>
 
-Estudante de TI & Cibersegurança | Futuro Imigrante no Canadá 🇨🇦
+###
 
-Atualmente estou focado em aprender como proteger sistemas e automatizar processos usando Python. Tenho uma rotina intensa de estudos dividida entre o Ensino Técnico e curso de Cibersegurança no SENAI.
+<img align="right" height="150" src="https://media.tenor.com/T0_Vf6E4zY0AAAAC/mewtwo-pokemon.gif"  />
 
-- Cursando: Técnico em Desenvolvimento de Sistemas & Cibersegurança (SENAI).
-- Interesse: Brigadista e Bombeiro Civil (Unindo segurança física e digital).
-- Linguagem Principal: Python.
-- Idiomas: Português (Nativo) e Inglês (Em desenvolvimento).
+###
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Brigada](https://img.shields.io/badge/BRIGADA_&_BOMBEIRO-E34F26?style=for-the-badge&logo=fire-extinguisher&logoColor=white)
-![Cibersegurança](https://img.shields.io/badge/CIBERSEGURANÇA-000000?style=for-the-badge&logo=hackthebox&logoColor=9fe117)
-![Inglês](https://img.shields.io/badge/INGLÊS-002395?style=for-the-badge&logo=duolingo&logoColor=white)
+<h2 align="left">About Me!</h2>
 
-> *"Segurança não é um produto, é um processo."*
+###
 
+<p align="center">I am a Cybersecurity student at SENAI and a Systems Development technician. I am passionate about infrastructure security and automation. Currently, I am also training as a Civil Firefighter/Brigadist, combining physical and digital security skills to protect critical infrastructures.</p>
+
+###
+
+<h2 align="left">Tool that I use</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
+
+###
+
+<h2 align="left">Where can you find me?</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://discord.com/channels/@souzakj_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/3/#inbox?compose=DmwnWrRlQqWDdZzThBzFtMrVcldhtZTsjhktNLbpDPgLTGTLbHKDqZffPJNxrnZRDtSXrCMRkHfG" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/pedro-souza-bb8318381/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
