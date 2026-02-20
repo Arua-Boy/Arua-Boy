@@ -1,14 +1,18 @@
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/150.gif" align="right" width="180" />
+<table border="0">
+  <tr>
+    <td>
+      <h1>Hi, I'm Pedro Souza! 👋</h1>
+      <h1>Greetings!</h1>
+      <p>🛡️ <b>Cybersecurity Student (SENAI) & Systems Development Technician</b></p>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/150.gif" width="180" />
+    </td>
+  </tr>
+</table>
 
-# Hi, I'm Pedro Souza! 👋
-# Greetings!
-
-### 🛡️ Cybersecurity Student (SENAI) & Systems Development Technician
 Focused on Infrastructure Protection, Automation, and Canada 2028 Plan.
-
-Currently studying **Systems Development** and training as a **Cybersecurity Specialist** at SENAI. Also a **Civil Firefighter/Brigadist**.
-
-<br clear="right"/>
+Currently studying **Systems Development** and training as a **Cybersecurity Specialist**. Also a **Civil Firefighter/Brigadist**.
 
 ---
 
