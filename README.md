@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td>
-      <h1>Hi, I'm Pedro Souza! 👋</h1><h1>Greetings!</h1>
+      <h1>Hi, I'm Pedro Souza! 👋 Greetings!</h1>
       <p>🛡️ <b>Cybersecurity Student (SENAI) & Systems Development Technician</b></p>
     </td>
     <td valign="top">
@@ -11,7 +11,7 @@
 </table>
 
 Focused on Infrastructure Protection, Automation, and Canada 2028 Plan.
-Currently studying **Systems Development** and training as a **Cybersecurity Specialist**. Also a **Civil Firefighter/Brigadist**.
+Currently studying **Systems Development** and training as a **Cybersecurity Specialist** at SENAI. Also a **Civil Firefighter/Brigadist**.
 
 ---
 
