@@ -10,7 +10,7 @@
   </tr>
 </table>
 
-Focused on Infrastructure Protection, Automation, and Canada 2028 Plan.
+Focused on Infrastructure Protection, Automation, and Canada 2030 Plan.
 Currently studying **Systems Development** and training as a **Cybersecurity Specialist**. Also a **Civil Firefighter/Brigadist**.
 
 ---
